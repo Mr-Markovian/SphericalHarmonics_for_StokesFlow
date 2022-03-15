@@ -1,4 +1,4 @@
-# Calculating Stokes flow inside a Sphere given the surface velocity via Vector Spherical Harmonics
+# Calculating Stokes flow inside a Sphere given the surface velocity via *Vector Spherical Harmonics*
 [Vector Spherical Harmonics](https://en.wikipedia.org/wiki/Vector_spherical_harmonics) are derived from the standard spherical harmonics which are the eigenfucntions of laplacian operator in spherical geometry.
 
 The problem involved solving analytically Stokes equation in spherical geometry as an idealized situation in order to model and understand the bulkflows in the cytoskeleton of a cell.
